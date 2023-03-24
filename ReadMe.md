@@ -2,6 +2,7 @@
 
 This Bash script allows you to chat with an OpenAI-powered chatbot using the GPT-3.5-Turbo model. The conversation history is stored in a PostgreSQL database, which allows you to continue the conversation later.
 
+
 ## Prerequisites
 
 Before you can use this script, you'll need to make sure you have the following installed and set up:
